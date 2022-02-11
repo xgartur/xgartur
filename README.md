@@ -12,6 +12,7 @@
 
 ### 📕 Blog Posts
 - [Votación en blockchain](https://www.youtube.com/watch?v=a0xVUYkK__I)
+- [Recursos para empezar como blockchain developer](https://dev.to/xgartu/grandes-recursos-para-empezar-como-blockchain-developer-ib)
 <br/>
 
 
